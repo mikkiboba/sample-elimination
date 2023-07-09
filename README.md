@@ -2,7 +2,9 @@
 
 This is the repository for the Computer Graphics project.<br>
 The project choosen is **Sample Elimination** and is made in python.<br>
-Libraries used: `numpy`, `opencv`, `math`, `heapq`, `scipy` and `matplotlib`
+Libraries used: `numpy`, `opencv`, `math`, `heapq`, `scipy` and `matplotlib`<br>
+
+Document used for this project: http://www.cemyuksel.com/research/sampleelimination/sampleelimination.pdf
 
 ---
 > file: `random_sampling.py`
